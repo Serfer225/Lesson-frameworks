@@ -1,0 +1,26 @@
+.body{
+    background-color: burlywood;
+}
+.div{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 500px;
+    height: 400px;
+}
+.uk-flex .uk-flex-column{
+    border-left: 1px solid black;
+    border-right:1px solid black ;
+}
+h1{
+    text-align: center;
+}
+.uk-card .uk-card-default{
+    margin-right: 10px;
+}
+.uk-icon-link_code{
+    align-items:end;
+}
+.box_0{
+    width: 200px;
+    height: 100px;
+}
